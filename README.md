@@ -53,7 +53,7 @@
 
 ## Live version
 
-[Book-Appoinments](https://book-appointments-frontend.netlify.app)
+[Book-Appoinments](https://book-appointments.thecodechaser.com)
 
 ## Getting Started
 
